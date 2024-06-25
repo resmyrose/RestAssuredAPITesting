@@ -1,0 +1,14 @@
+
+{
+  "user_first_name": "Anna",
+  "user_last_name": "Austin",
+  "user_contact_number": "7873322333",
+  "user_email_id": "AnnaAustin@gmail.com",
+  "userAddress": {
+    "plotNumber": "plot-675",
+    "street": "street",
+    "state": "street",
+    "country": "country",
+    "zipCode": "689573"
+  	}
+  }

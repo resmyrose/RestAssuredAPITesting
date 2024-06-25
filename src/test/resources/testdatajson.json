@@ -1,0 +1,41 @@
+[
+{
+  "user_first_name": "Anna",
+  "user_last_name": "Austin",
+  "user_contact_number": "7873322333",
+  "user_email_id": "AnnaAustin@gmail.com",
+  "userAddress": {
+    "plotNumber": "plot-675",
+    "street": "street",
+    "state": "street",
+    "country": "country",
+    "zipCode": "689573"
+  	}
+  },
+ {
+  "user_first_name": "Tessa",
+  "user_last_name": "Austin",
+  "user_contact_number": "7873344433",
+  "user_email_id": "TessaAustin@gmail.com",
+  "userAddress": {
+    "plotNumber": "plot-675",
+    "street": "street",
+    "state": "street",
+    "country": "country",
+    "zipCode": "689573"
+  	}
+  },
+   {
+  "user_first_name": "Resmy",
+  "user_last_name": "Austin",
+  "user_contact_number": "7873344433",
+  "user_email_id": "TessaAustin@gmail.com",
+  "userAddress": {
+    "plotNumber": "plot-675",
+    "street": "street",
+    "state": "street",
+    "country": "country",
+    "zipCode": "689573"
+  	}
+  }
+]
